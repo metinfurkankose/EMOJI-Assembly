@@ -1,0 +1,9 @@
+Message[302] C:\MICRO\ODEV_2\EMOJI.ASM 8 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\MICRO\ODEV_2\EMOJI.ASM 9 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\MICRO\ODEV_2\EMOJI.ASM 10 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\MICRO\ODEV_2\EMOJI.ASM 14 : Found label after column 1. (DONGU)
+Warning[207] C:\MICRO\ODEV_2\EMOJI.ASM 67 : Found label after column 1. (TEKRAR)
+Warning[207] C:\MICRO\ODEV_2\EMOJI.ASM 70 : Found label after column 1. (GECIK)
+Message[305] C:\MICRO\ODEV_2\EMOJI.ASM 71 : Using default destination of 1 (file).
+Message[305] C:\MICRO\ODEV_2\EMOJI.ASM 73 : Using default destination of 1 (file).
+Warning[205] C:\MICRO\ODEV_2\EMOJI.ASM 78 : Found directive in column 1. (END)
